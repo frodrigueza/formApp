@@ -1,9 +1,3 @@
-# formApp
-1. npm start
-2. Trabajar en src/Home.js
-3. Para deploy correr: webpack y luego ir a build/index.html y cambiar de assets/bundle.js a bundle.js
-
-
 <snippet>
   <content><![CDATA[
     # ${1:Form App}
